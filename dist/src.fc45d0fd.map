@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.tsx"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,SAAS,KAAT,CAAe,QAAf,EAA4B;AAC1B,SAAO,SAAP;AACD","file":"src.fc45d0fd.map","sourceRoot":"..","sourcesContent":["function greet(greeting: any) {\n  return `, Sean!`\n}\n"]}
